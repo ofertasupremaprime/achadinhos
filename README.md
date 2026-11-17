@@ -1,4 +1,4 @@
-# Lorena Achadinhos — versão final
+#Oferta suprema prime
 
 Todos os arquivos deste projeto ficam na mesma pasta para facilitar o envio ao GitHub Pages.
 
